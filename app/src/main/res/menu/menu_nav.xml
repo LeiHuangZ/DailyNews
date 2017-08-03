@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/news"
+            android:icon="@mipmap/news"
+            android:title="新闻">
+        </item>
+
+        <item
+            android:id="@+id/collection"
+            android:icon="@mipmap/collect"
+            android:title="收藏">
+        </item>
+
+        <item
+            android:id="@+id/follow"
+            android:icon="@mipmap/followup"
+            android:title="跟帖">
+        </item>
+
+        <item
+            android:id="@+id/local"
+            android:icon="@mipmap/local"
+            android:title="本地">
+        </item>
+
+        <item
+            android:id="@+id/image"
+            android:icon="@mipmap/image"
+            android:title="收藏">
+        </item>
+    </group>
+</menu>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DailyNews</string>
+    <string name="drawer_open">打开</string>
+    <string name="drawer_close">关闭</string>
+    <string name="account">账号</string>
+    <string name="e_mail">邮箱</string>
+    <string name="password">密码</string>
+    <string name="register">注册</string>
+    <string name="camera">拍照</string>
+    <string name="photo">相册</string>
+    <string name="cancel">取消</string>
+    <string name="hl">huangleily</string>
+    <string name="stamp">2014.5.09 09:00:00</string>
+    <string name="comment">犯我中华者，虽远必诛</string>
+    <string name="LoadMore">加载更多</string>
+    <string name="NoMore">已经到底了</string>
+    <string name="inputcom">请输入评论内容</string>
+    <string name="onFailure">服务器连接失败</string>
+    <string name="login">请先登录</string>
+    <string name="LoseLogin">登录失效</string>
+    <string name="CheckLogin">点击登录</string>
+</resources>

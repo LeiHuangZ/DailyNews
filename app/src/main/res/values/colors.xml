@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--常用颜色-->
+    <color name="white">#FFF</color>
+    <color name="red">#800000</color>
+    <color name="gray">#808080</color>
+    <color name="blue">#00BFFF</color>
+    <color name="black">#000</color>
+    <color name="diamond_blue">#6495ED</color>
+    <color name="steel_blue">#B0C4DE</color>
+    <color name="bg_gray">#DCDCDC</color>
+</resources>
